@@ -9,4 +9,4 @@ Guides for the practice of science
 
 ## Publishing
 
- - [How to write a scientific paper](How%20to%20write%20a%20scientific%20paper.md)
+ - [How to write a scientific paper](paper_writing.md) 
