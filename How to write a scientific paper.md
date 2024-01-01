@@ -7,4 +7,4 @@ Most papers in the McHenry Lab are constructed in the following order:
 5. **Start the abstract**. It's a good idea to create the first draft of the abstract once the structure of the Intro and Discussion is apparent. This is because the abstract will need many stages of refinement. Its concise format can also be helpful for guiding the writing on those more lengthy sections.
 6. **Revise, revise, revise.** It's best to assume that numerous revision cycles will be required to arrive at a publication-quality manuscript. It is common when writing one section to reveal shortcomings in other sections. So, after drafting the entire paper on the first pass, you will generally revisit all sections and the figures and not necessarily in order.
 
-There are many tips and guidelines for the composition of each section of a paper. More details to come.
+There are many tips and guidelines for the composition of each section of a paper. More details to come . . .

@@ -3,7 +3,7 @@
 The goal here is to install and configure software to script in Python and use Blender to generate animated geometries.
 I developed this on my Mac, which should be similar in Linux, and will likely require some modifications in Windows.
 
-The instructions assume that you've got python up and running with VS Code (instructions [here](python_start.md)).
+The instructions assume that you've got python up and running with VS Code (instructions [here](Python.md)).
 
 ## Setting up python in Blender
 
