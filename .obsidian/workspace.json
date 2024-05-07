@@ -18,8 +18,57 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cec7076d4778863f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper_writing.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b9f4a8677c3300f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "12c08d8dd58fd350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network_measurements.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "09e9c619d9832ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formatting.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Network_measurements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Network_measurements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Network_measurements.md"
               }
             }
           }
@@ -133,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +194,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db353d70c8ce77d2",
+  "active": "12c08d8dd58fd350",
   "lastOpenFiles": [
-    "paper_writing.md",
+    "Analyzing_schooling_networks.md",
     "README.md",
-    "Blender.md",
+    "Network_measurements.md",
+    "paper_writing.md",
+    "figures.md",
+    "formatting.md",
+    "assets/offset_axes.png",
+    "assets/Screenshot 2024-01-02 at 1.21.23 PM.png",
+    "Illustrator.md",
     "Python.md",
+    "Blender.md",
     "assets/vs_code_env.png",
     "assets/open_terminal.png",
     "assets/json_set.png",
